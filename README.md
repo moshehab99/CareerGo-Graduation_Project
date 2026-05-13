@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For questions or collaboration opportunities:
-- Email: your.email@example.com
+- Email: moshehab9924@gmail.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Project Link: [GitHub Repository](https://github.com/yourusername/cv-matching-ai)
 
