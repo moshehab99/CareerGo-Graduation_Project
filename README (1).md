@@ -800,8 +800,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-**Built with ❤️ by the CareerGo Team · Benha University · 2026**
-
-*Bridging talent with opportunity through the power of AI*
+**By the CareerGo Team · Benha University · 2026**
 
 </div>
